@@ -10,7 +10,7 @@
     "test": "simpleunit ./test"
   }
 , "dependencies": {
-	"simplemessages": "0.0.6"
+	"simplemessages": "https://github.com/sguiheux/SimpleMessages/tarball/tmp"
   }
 , "devDependencies": {
     "simpleunit": "0.0.6"
